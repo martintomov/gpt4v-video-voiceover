@@ -3,6 +3,14 @@
 This Streamlit application demonstrates the use of AI and machine learning to automate the process of generating voiceovers for videos. 
 Process video, generate narratives based on the video content, convert the narratives to audio, and then merge the audio back into the video.
 
+# Demo
+
+### Input Video
+https://github.com/martintmv-git/gpt4v-streamlit-voiceover/assets/101264514/388d20c1-e61d-4f50-8641-4217886e2047
+
+### Output Video
+https://github.com/martintmv-git/gpt4v-streamlit-voiceover/assets/101264514/1aeb3caf-443d-4e94-abf1-4a9cf795fafb
+
 ## Features
 
 - **Video Processing**: Converts a video into frames using OpenCV.
