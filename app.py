@@ -45,7 +45,7 @@ def frames_to_story(base64Frames, prompt, api_key):
         },
     ]
     params = {
-        "model": "gpt-4-vision-preview",
+        "model": "gpt-4o-mini",
         "messages": PROMPT_MESSAGES,
         "api_key": api_key,
         "headers": {"Openai-Version": "2020-11-07"},
